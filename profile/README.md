@@ -1,12 +1,8 @@
-## Hi there 👋
 
-<!--
+<p align="center">
+    <img src="logo_w_name.png" alt="Image description" width="800" height="200">
 
-**Here are some ideas to get you started:**
+</p> 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Icecube is an Android application designed for Minecraft Bedrock Edition that allows players to connect and play together remotely without the need for Xbox Live. Our primary goal is to simplify multiplayer gameplay by eliminating the need for additional server software, such as Aternos, making it easier for players to join each other's worlds effortlessly.
+
